@@ -1,0 +1,11 @@
+{
+  "name": "First.vip",
+  "short_name": "头等仓",
+  "icons": [
+    
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#111a3b",
+  "theme_color": "#111a3b"
+}
